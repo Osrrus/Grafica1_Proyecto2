@@ -1,0 +1,77 @@
+﻿  light.cpp
+  Main.cpp
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\main.cpp(71): warning C4018: '>=': no coinciden signed/unsigned
+  Model.cpp
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(107): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(108): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(109): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(142): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(143): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(144): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(353): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(354): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(361): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(362): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(363): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(366): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(367): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(370): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(371): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(372): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(375): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(376): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(379): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(380): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(381): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(384): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(385): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(406): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(407): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(408): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(449): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(450): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\model.cpp(451): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+  Obj.cpp
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(77): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(78): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(79): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(143): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(144): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(146): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(147): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(149): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(150): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(169): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(170): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(171): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(187): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(188): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(190): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(191): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(193): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(194): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+  SOff.cpp
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(49): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(51): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(78): warning C4244: '=': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(81): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(146): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(147): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(148): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(165): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(166): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(167): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(183): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(184): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(186): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(187): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(189): warning C4244: 'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(190): warning C4244: 'argumento': conversión de 'float' a 'const int'; posible pérdida de datos
+  UserInterface.cpp
+  Generando código...
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\userinterface.cpp(450): warning C4715: 'CUserInterface::getShadowType': no todas las rutas de acceso de control devuelven un valor
+  Despliegue3DPlantilla.vcxproj -> C:\Users\Alejandro\Desktop\Proyectos\Graficas\Proyecto2\Debug\Despliegue3DPlantilla.exe

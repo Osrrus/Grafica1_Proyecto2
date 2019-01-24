@@ -1,0 +1,45 @@
+﻿  Main.cpp
+  Model.cpp
+  Obj.cpp
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(25): warning C4305: '=': truncamiento de 'int' a 'float'
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(71): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(91): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(92): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(140): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(141): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\obj.cpp(142): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+  SOff.cpp
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(20): warning C4305: '=': truncamiento de 'int' a 'float'
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(49): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(51): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(79): warning C4244: '=': conversión de 'double' a 'unsigned int'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(82): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(127): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(128): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+c:\users\alejandro\desktop\proyectos\graficas\proyecto2\src\soff.cpp(129): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+  UserInterface.cpp
+Main.obj : error LNK2001: símbolo externo glfwSwapBuffers sin resolver
+Main.obj : error LNK2001: símbolo externo glfwGetVideoMode sin resolver
+Main.obj : error LNK2001: símbolo externo glfwTerminate sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetMouseButtonCallback sin resolver
+Main.obj : error LNK2001: símbolo externo glfwPollEvents sin resolver
+Main.obj : error LNK2001: símbolo externo glfwInit sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetWindowShouldClose sin resolver
+Main.obj : error LNK2001: símbolo externo glfwCreateWindow sin resolver
+Main.obj : error LNK2001: símbolo externo glfwMakeContextCurrent sin resolver
+Main.obj : error LNK2001: símbolo externo glfwDestroyWindow sin resolver
+Main.obj : error LNK2001: símbolo externo glfwGetPrimaryMonitor sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetCursorPosCallback sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetWindowSizeCallback sin resolver
+Main.obj : error LNK2001: símbolo externo glfwWindowShouldClose sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetCharCallback sin resolver
+Main.obj : error LNK2001: símbolo externo glfwSetWindowPos sin resolver
+C:\Users\Alejandro\Desktop\Proyectos\Graficas\Proyecto2\x64\Release\Despliegue3DPlantilla.exe : fatal error LNK1120: 17 externos sin resolver

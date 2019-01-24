@@ -1,0 +1,3 @@
+﻿  Main.cpp
+Main.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+  Despliegue3DPlantilla.vcxproj -> C:\Users\Alejandro\Desktop\Proyectos\Graficas\Despliegue3DPlantilla-master\x64\Debug\Despliegue3DPlantilla.exe
